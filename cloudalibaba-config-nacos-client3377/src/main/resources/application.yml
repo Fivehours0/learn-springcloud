@@ -1,0 +1,4 @@
+spring:
+  profiles:
+    # 表示是哪一个分支版本
+    active: dev
